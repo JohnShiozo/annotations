@@ -1,5 +1,6 @@
 plugins {
-    id("java")
+    java
+    //id("java")
 }
 
 group = "by.radioegor146"
